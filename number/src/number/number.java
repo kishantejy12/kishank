@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class number {
 
 	public static void main(String[] args) {
-		System.out.println("entre the number");
+		System.out.println("entre the number"); //entering the number
 		Scanner sc = new Scanner(System.in);
 
 		int x = sc.nextInt();
